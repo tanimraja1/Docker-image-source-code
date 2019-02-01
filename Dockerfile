@@ -1,4 +1,4 @@
-# Centos based container with Java and Tomcat
+# Centos based container with systemd
 FROM local/c7-systemd 
 
 # Install prepare infrastructure
